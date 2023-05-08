@@ -2,7 +2,7 @@
 A RaspberryPi based aerophonics Plant grower. 
 
 ## Introduction
- - Introduce Aerophonics and Hydrophonics
+ - Aeorophonics and Hydrophonics is when plants are grown without a growth medium (soil) instead the roots of the plant are fe
 
  - How are they grown
  
@@ -24,9 +24,9 @@ A RaspberryPi based aerophonics Plant grower.
 
 
  ## Setup
-    The plant roots are kept in a chamber where they are constantly exposed to air, a humidistat determins the amount of humidity.
-    Under this chamber the water and nutrients solution tank is placed.
-    An Ultrasonic Pieze electric disk (mister) is placed on top of the solution tank. Therefore it is within the  Roots chamber.
+The plant roots are kept in a chamber where they are constantly exposed to air, a humidistat determins the amount of humidity.
+Under this chamber the water and nutrients solution tank is placed.
+An Ultrasonic Pieze electric disk (mister) is placed on top of the solution tank. Therefore it is within the  Roots chamber.
 
 ## How does it work
 
@@ -34,4 +34,3 @@ A RaspberryPi based aerophonics Plant grower.
 
    When the humidity is back to required levels, it turns OFF the Pieze electric mister. 
 
-   
