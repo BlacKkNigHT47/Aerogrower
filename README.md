@@ -1,5 +1,7 @@
 # Aerogrower
-**A RaspberryPi based aerophonics Plant grower.**
+<span style="font-weight:700;font-size:20px"> 
+ A RaspberryPi based aerophonics Plant grower.
+</span>
 ![The AeroGrower](images/Aerogrower.jpeg)
 
 ## Introduction
