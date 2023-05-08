@@ -11,7 +11,13 @@
  - In the Aerogrower, an ultrasonic piezo electric disk is used to form a mist of a nutrient and water solution for a plant, in this case basil.
 
  ## Benefits
-
+### Aeroponics contains many benefits over conventional farming
+- It can save up to **95%** more land!
+- It can save up to **98%** more water!
+- An aeroponics farm can be set up anywhere!
+- Food can be grown closer to the consumer prolonging life.
+- Can be small scale, you can have an aerogrower on your windowsill!
+- Helps the environment!
  ## Required componets
     1. Raspberry Pi
     2. Breadboard (+ some jumper wires)
