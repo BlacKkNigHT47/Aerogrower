@@ -1,5 +1,6 @@
 # Aerogrower
 A RaspberryPi based aerophonics Plant grower. 
+![The AeroGrower](images/Aerogrower.jpeg)
 
 ## Introduction
  - Aeorophonics and Hydrophonics is when plants are grown without a growth medium (soil) instead the roots of the plant are fe
