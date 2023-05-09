@@ -1,9 +1,9 @@
 # Aerogrower
-**A RaspberryPi based aerophonics Plant grower.**
+**A RaspberryPi based aerohonics Plant grower.**
 ![The AeroGrower](images/Aerogrower.jpeg)
 
 ## Introduction
- - Aeorophonics and Hydrophonics is when plants are grown without a growth medium (soil) instead the roots of the plant are direct;y fed the nutrients and water it needs.
+ - Aeoroponics and Hydroponics is when plants are grown without a growth medium (soil) instead the roots of the plant are direct;y fed the nutrients and water it needs.
  The difference between hydroponics and aeroponics is that Hydroponics is when a plant's roots are suspended in water, on the other hand, Aeroponics is when they are suspended in air.
 
  - In an aeroponics system, the plant roots are suspended in a chamber of air, they are periodically fed a mixture of water and nutrients. Normally this is in the form of a sprayer or a tower in which water droplets pass through the roots. But in the Aerogrower, a mister is used instead, because of this plants can be placed anywhere as long as their roots are in the chamber as the mist reaches all parts of the chamber, unlike in most aeroponics setup.
