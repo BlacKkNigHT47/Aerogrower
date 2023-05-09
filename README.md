@@ -17,6 +17,7 @@
 - An aeroponics farm can be set up anywhere!
 - Food can be grown closer to the consumer prolonging life.
 - Can be small scale, you can have an aerogrower on your windowsill!
+- Plants tend to be 2 - 2.5 times bigger!
 - Helps the environment!
  ## Required componets
     1. Raspberry Pi
