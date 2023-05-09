@@ -1,5 +1,5 @@
 # Aerogrower
-**A RaspberryPi based aerohonics Plant grower.**
+**A RaspberryPi based aeroponics Plant grower.**
 ![The AeroGrower](images/Aerogrower.jpeg)
 
 ## Introduction
