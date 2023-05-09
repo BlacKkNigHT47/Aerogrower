@@ -39,5 +39,5 @@ An Ultrasonic Piezo electric disk (mister) is placed on top of the solution tank
    When the humidity is back to required levels, it turns OFF the Pieze electric mister and thus stops providing the mist.
 
 ## Electronic Circuit
-**A diagram of the circuit**
+**Circuit diagram**
 ![The AeroGrower circuit](images/R_pi_pr1_bb.jpg)
